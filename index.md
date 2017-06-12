@@ -2,4 +2,4 @@
 
 <iframe width="480" height="270" src="https://www.youtube.com/embed/YJH1J-5il5o" frameborder="0" allowfullscreen></iframe>
 
-  <a href="./added info/socialstudiesreflection.pdf" target="_blank">Response</a>
+  <a href="./added-info/socialstudiesreflection.pdf" target="_blank">Response</a>
